@@ -5,7 +5,16 @@
 #include <string>
 #using namespace std;
 //#write student class here
-
+class Student{
+private : 
+int year;
+string major;
+public:
+Student();
+Student(int year , string major);
+~student();
+void display();
+};
 
 
 
