@@ -5,7 +5,7 @@
 #include <string>
 #using namespace std;
 //#write student class here
-class Student ::public person{
+class Student ::public Person{
 private : 
 int year;
 string major;
