@@ -12,7 +12,7 @@ int id;
 public:
 Person();
 Person(string name , int id);
-~person();
+~Person();
 void display();
 
 
