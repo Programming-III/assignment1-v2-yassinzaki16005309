@@ -12,7 +12,7 @@ string major;
 public:
 Student();
 Student(int year , string major);
-~student();
+~Student();
 void display();
 };
 
